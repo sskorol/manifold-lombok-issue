@@ -1,6 +1,6 @@
 ### Manifold -> Lombok NPE
 
-This repo helps to reproduce NPE while using both Manifold and Lombok.
+This repo helps to reproduce NPE while using both Manifold and Lombok: see [#137](https://github.com/manifold-systems/manifold/issues/137)
 
 #### Installation
 
