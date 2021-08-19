@@ -1,2 +1,1 @@
-rootProject.name = "manifold-issues"
-
+rootProject.name = "manifold-lombok-issue"
